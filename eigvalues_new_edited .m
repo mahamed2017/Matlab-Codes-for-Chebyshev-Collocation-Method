@@ -1,4 +1,4 @@
-% Eigenvalue Search for the Equations of Fiber Spinning
+% Eigenvalue Search for the Equations of film blowing
 %
 %		      Md Fayaz Ahamed
 %             February 2021
